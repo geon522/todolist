@@ -1,0 +1,39 @@
+	* {
+		margin: 0;
+		padding: 0;
+	}
+
+header{
+			border-bottom:1px solid gray;
+			padding:20px
+		}
+	nav {
+		border-right:1px solid gray;
+		width:200px;
+		height:600px;
+		float:left;
+		padding:20px;
+	}
+	nav ol{
+		list-style:none;	
+	}
+	article {
+		float:left;
+		padding:20px;
+		
+	}
+
+#contral {
+	float:right;
+}
+
+body.white{
+	background-color: white;
+	color:black
+}
+
+body.black{
+	background-color:black;
+	color:white;
+}
+
